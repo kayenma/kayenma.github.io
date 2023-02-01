@@ -1,7 +1,3 @@
-# kayenma.github.io
-Maher Kayen - mak93@miami.edu - JMM-640
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
