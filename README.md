@@ -6,59 +6,34 @@
   </head>
 
   <body>
-    <h1>About Meeeeeee</h1>
+    <h1>First Project</h1>
     <h2>Your source for Miami Hurricanes Football</h2>
 
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="roster.html">Roster</a></li>
-      <li><a href="schedule.html">Schedule</a></li>
+      <li><a href="index.html">Google</a></li>
+      <li><a href="roster.html">Yahoo</a></li>
+      <li><a href="schedule.html">YouTube</a></li>
     </ul>
 
-    <h3>Latest News</h3>
+    <h3>Google</h3>
 
-    <h4>Hurricanes to face No. 1 Oklahoma in Orange Bowl</h4>
-    <p>Dec. 31, 1987</p>
-    <p>The undefeated teams will face off on Friday, January 1 as second-ranked Miami seeks its first national title since 1983.</p>
-    <p><a href="game-preview.html">Game Preview</a></p>
+    <h4>History</h4>
+    <p>Google started in September 1998.</p>
+    <p>is a multinational technology company that specializes in Internet-related services and products. These include search engines, online advertising technologies, cloud computing, software, and hardware. Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University. Google's mission is to organize the world's information and make it universally accessible and useful. It has grown to become one of the largest technology companies in the world and is headquartered in Mountain View, California.</p>
+   
 
-    <h4>Miami remains unbeaten after 20-16 win over South Carolina</h4>
-    <p>Dec. 5, 1987</p>
-    <p>The Hurricanes trailed early, but took the lead for good in the second quarter on Melvin Bratton's 5-yard run.</p>
-    <p><a href="miami-defeats-south-carolina.html">Game Recap</a></p>
-
-    <h4>Irish shut out by relentless Canes defense</h4>
-    <p>Nov. 28, 1987</p>
-    <p>No. 2 Miami kept No. 10 Notre Dame's offense in check and earned its fourth win in as many meetings.</p>
-    <p><a href="canes-shut-out-irish.html">Game Recap</a></p>
-
-    <h3>Archives</h3>
+    <h4>Alphabet Inc. operates several other companies in addition to Google, including:</h4>
 
     <ul>
-      <li><a href="1983.html">1983</a></li>
-      <li><a href="1984.html">1984</a></li>
-      <li><a href="1985.html">1985</a></li>
-      <li><a href="1986.html">1986</a></li>
+      <li>Calico: a research and development company focused on health and longevity</li>
+      <li>GV (formerly Google Ventures): a venture capital firm</li>
+      <li><CapitalG (formerly Google Capital): a growth equity firm</li>
+      <li>DeepMind: an AI company</li>
     </ul>
 
-    <h3>Sources</h3>
+    <h3>These are some of the major subsidiaries of Alphabet Inc., but the company also has many other smaller companies and ventures as well.</h3>
 
-    <ul>
-      <li><a href="https://miami.edu">University of Miami</a></li>
-      <li><a href="https://miamihurricanes.com">Miami Hurricanes</a></li>
-      <li><a href="https://themiamihurricane.com">The Miami Hurricane</a></li>
-      <li><a href="https://umtv.miami.edu/sportsdesk">UMTV: SportsDesk</a></li>
-    </ul>
-
-    <p>Contact Ibis News</p>
-
-    <ul>
-      <li><a href="mailto:ibis@example.com">Email</a></li>
-      <li><a href="https://facebook.com/">Facebook</a></li>
-      <li><a href="https://twitter.com/">Twitter</a></li>
-    </ul>
-
-    <p><small>&copy; 2021. Ibis News. All Rights Reserved</small></p>
+    
 
   </body>
 </html>
