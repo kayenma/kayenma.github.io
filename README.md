@@ -50,11 +50,12 @@
    
     <table>
      <tbody>
+       <tr>
       <th>Subscribers</th>
       <td>8 Million</td>
       <td>2 Million</td>
       <td>11 Million</td>
-       
+       </tr>
     </tbody>
     </table>
     
