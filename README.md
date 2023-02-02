@@ -52,9 +52,9 @@
      <tbody>
        <tr>
       <th>Subscribers</th>
-      <td>8 Million</td>
-      <td>2 Million</td>
-      <td>11 Million</td>
+      <td>8 Millions</td>
+      <td>2 Millions</td>
+      <td>11 Millions</td>
        </tr>
     </tbody>
     </table>
