@@ -52,19 +52,19 @@
 <tbody>
     <th>Table Heading</th>
     <tr>
-<td>11</td>
-<td>12</td>
-<td>13</td>
+<td>Lorem ipsum</td>
+<td>Lorem ipsumLorem ipsum</td>
+<td>Lorem ipsum</td>
 </tr>
 <tr>
-<td>21</td>
-<td>22</td>
-<td>23</td>
+<td>Lorem ipsum</td>
+<td>Lorem ipsum</td>
+<td>Lorem ipsum</td>
 </tr>
 <tr>
-<td>31</td>
-<td>32</td>
-<td>33</td>
+<td>Lorem ipsum</td>
+<td>Lorem ipsum</td>
+<td>Lorem ipsum</td>
 </tr>
 </tbody>
 </table>
