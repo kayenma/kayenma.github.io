@@ -49,25 +49,27 @@
     <p>The platform has become one of the largest sources of online video content, with billions of hours of video watched every day by millions of users around the world. In addition to user-generated content, YouTube also hosts a wide range of professionally produced videos, including music videos, television shows, and movies. The platform also offers a variety of features, including the ability to comment, like, and share videos, as well as subscribe to channels. Over the years, YouTube has become an important part of popular culture and has had a significant impact on the way people consume and share video content.</p>
    
     <table>
-<tbody>
-    <th>Table Heading</th>
-    <tr>
-<td>Lorem ipsum</td>
-<td>Lorem ipsumLorem ipsum</td>
-<td>Lorem ipsum</td>
-</tr>
-<tr>
-<td>Lorem ipsum</td>
-<td>Lorem ipsum</td>
-<td>Lorem ipsum</td>
-</tr>
-<tr>
-<td>Lorem ipsum</td>
-<td>Lorem ipsum</td>
-<td>Lorem ipsum</td>
-</tr>
-</tbody>
-</table>
+     <tbody>
+     <th>Subscribers</th>
+      <tr>
+      <td>55 Million Subscribers</td>
+      <td>20 Million Subscribers</td>
+      <td>Lorem ipsum</td>
+     </tr>
+     <th>Followers</th>
+       <tr>
+    <td>Fans</td>
+    <td>Awesome Fans</td>
+    <td>Amazing Fans</td>
+      </tr>
+    <th>Dreamers</th>
+       <tr>
+    <td>Share content</td>
+    <td>Lorem ipsum</td>
+    <td>Dracula</td>
+      </tr>
+       
+    </tbody>
     </table>
     
 
