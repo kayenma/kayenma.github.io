@@ -69,6 +69,30 @@
     <td>Dracula</td>
       </tr>
        
+       <tr>
+    <td>Share content</td>
+    <td>Lorem ipsum</td>
+    <td>Dracula</td>
+      </tr>
+       
+       <tr>
+    <td>Share content</td>
+    <td>Lorem ipsum</td>
+    <td>Dracula</td>
+      </tr>
+       
+       <tr>
+    <td>Share content</td>
+    <td>Lorem ipsum</td>
+    <td>Dracula</td>
+      </tr>
+       
+       <tr>
+    <td>Share content</td>
+    <td>Lorem ipsum</td>
+    <td>Dracula</td>
+      </tr>
+       
     </tbody>
     </table>
     
