@@ -9,22 +9,22 @@
     <h1>First Project</h1>
     <h2>Famous Websites People Use all the Time</h2>
       <ul>
-      <li><a href="index.html">Google</a></li>
-      <li><a href="roster.html">Yahoo</a></li>
-      <li><a href="schedule.html">YouTube</a></li>
+      <li><a href="https://google.com">Google</a></li>
+      <li><a href="https://yahoo.com">Yahoo</a></li>
+      <li><a href="https://youtube.com">YouTube</a></li>
       </ul>
     
     <h2>Famous Websites People Use all the Time</h2>
        <ol>
-      <li><a href="index.html">Google</a></li>
-      <li><a href="roster.html">Yahoo</a></li>
-      <li><a href="schedule.html">YouTube</a></li>
+      <li><a href="#">Google</a></li>
+      <li><a href="#">Yahoo</a></li>
+      <li><a href="#">YouTube</a></li>
       </ol>
     <h2>Famous Websites People Use all the Time</h2>
       <ul>
-      <li><a href="index.html">Google</a></li>
-      <li><a href="roster.html">Yahoo</a></li>
-      <li><a href="schedule.html">YouTube</a></li>
+      <li><a href="#">Google</a></li>
+      <li><a href="#">Yahoo</a></li>
+      <li><a href="#">YouTube</a></li>
       </ul>
 
     <h3>Google</h3>
