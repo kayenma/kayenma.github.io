@@ -1,13 +1,5 @@
 
 
-  <head>
-    <meta charset="utf-8" />
-    <title>JMM640</title>
-  </head>
-
-
-</html>
-
 
 <!DOCTYPE html>
 <html>
