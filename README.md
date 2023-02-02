@@ -22,7 +22,7 @@
     <ol>
       <li>Calico: a research and development company focused on health and longevity</li>
       <li>GV (formerly Google Ventures): a venture capital firm</li>
-      <li><CapitalG (formerly Google Capital): a growth equity firm</li>
+      <li>CapitalG (formerly Google Capital): a growth equity firm</li>
       <li>DeepMind: an AI company</li>
     </ol>
 
@@ -38,7 +38,7 @@
     <ul>
       <li>Tumblr: a social networking and microblogging platform, acquired in 2013</li>
       <li>Flickr: a photo and video sharing platform, acquired in 2005</li>
-      <li><Geocities: a web hosting service and personal website builder, acquired in 1999</li>
+      <li>Geocities: a web hosting service and personal website builder, acquired in 1999</li>
       <li>Overture: a pay-per-click advertising company, acquired in 2003</li>
     </ul>
 
@@ -49,6 +49,7 @@
     <p>The platform has become one of the largest sources of online video content, with billions of hours of video watched every day by millions of users around the world. In addition to user-generated content, YouTube also hosts a wide range of professionally produced videos, including music videos, television shows, and movies. The platform also offers a variety of features, including the ability to comment, like, and share videos, as well as subscribe to channels. Over the years, YouTube has become an important part of popular culture and has had a significant impact on the way people consume and share video content.</p>
    
     <table>
+      <col>
         <th>Table Heading</th>
       <tr>
         <td>Table Data</td>
@@ -57,6 +58,17 @@
         <td>Table Data</td>
         <tr></tr>
         <td>Table Data</td>
+      </col>
+          <col>
+        <th>Table Heading</th>
+      <tr>
+        <td>Table Data</td>
+      </tr>
+        <tr></tr>
+        <td>Table Data</td>
+        <tr></tr>
+        <td>Table Data</td>
+      </col>
     </table>
     
 
