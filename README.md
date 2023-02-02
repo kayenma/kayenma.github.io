@@ -50,10 +50,13 @@
    
     <table>
      <tbody>
-     <th>Subscribers</th>
+   
       <tr>
+      <th>Subscribers</th>
       <td>55 Million Subscribers</td>
+          <th>Subscribers</th>
       <td>20 Million Subscribers</td>
+          <th>Subscribers</th>
       <td>Lorem ipsum</td>
      </tr>
              <tr>
