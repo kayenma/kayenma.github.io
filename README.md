@@ -51,60 +51,8 @@
     <table>
      <tbody>
    
-      <tr>
-      <th>Subscribers</th>
-      <td>55 Million Subscribers</td>
-          <th>Subscribers</th>
       <td>20 Million Subscribers</td>
-          <th>Subscribers</th>
-      <td>Lorem ipsum</td>
-     </tr>
-             <tr>
-      <td>55 Million Subscribers</td>
-      <td>20 Million Subscribers</td>
-      <td>Lorem ipsum</td>
-     </tr>
-
-             <tr>
-      <td>55 Million Subscribers</td>
-      <td>20 Million Subscribers</td>
-      <td>Lorem ipsum</td>
-     </tr>
-       
-
-       <tr>
-    <td>Fans</td>
-    <td>Awesome Fans</td>
-    <td>Amazing Fans</td>
-      </tr>
-              <tr>
-    <td>Fans</td>
-    <td>Awesome Fans</td>
-    <td>Amazing Fans</td>
-      </tr>
-
-
-       <tr>
-    <td>Share content</td>
-    <td>Lorem ipsum</td>
-    <td>Dracula</td>
-      </tr>
-              <tr>
-    <td>Share content</td>
-    <td>Lorem ipsum</td>
-    <td>Dracula</td>
-      </tr>
-              <tr>
-    <td>Share content</td>
-    <td>Lorem ipsum</td>
-    <td>Dracula</td>
-      </tr>
-              <tr>
-    <td>Share content</td>
-    <td>Lorem ipsum</td>
-    <td>Dracula</td>
-      </tr>
-
+ 
 
        
     </tbody>
