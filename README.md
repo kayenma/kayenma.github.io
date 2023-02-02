@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>JMM640 - 1st Project</title>
+    <title>JMM640</title>
   </head>
 
 
