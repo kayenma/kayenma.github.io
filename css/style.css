@@ -7,34 +7,34 @@ body {
 h1 {
   font-size: 2em;
   text-align: center;
-  margin-top: 1em;
+  margin-top: 10px;
 }
 
 h2 {
   font-size: 1.5em;
-  margin-top: 2em;
+  margin-top: 10px;
 }
 
 h3 {
   font-size: 1.2em;
-  margin-top: 1.5em;
+  margin-top: 10px;
 }
 
 /* Style the paragraph elements */
 p {
   line-height: 1.5;
-  margin-top: 1em;
+  margin-top: 10px;
 }
 
 /* Style the table element */
 table {
   border-collapse: collapse;
-  margin-top: 1.5em;
+  margin-top: 10px;
 }
 
 table th, table td {
-  border: 1px solid #333;
-  padding: 0.5em;
+  border: 1px solid #ccc;
+  padding: 10px;
 }
 
 table th {
@@ -43,9 +43,8 @@ table th {
 }
 
 /* Style the image elements */
+
 img {
-  display: block;
-  margin: 1em auto;
-  max-width: 100%;
-  height: auto;
+  float: left; /* float the image to the left of the text */
+  margin-right: 20px; /* add some margin to the right of the image */
 }
