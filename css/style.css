@@ -4,41 +4,39 @@ body {
   font-weight: bold;
 }
 
-/* Style the heading elements */
+/* Style for h1 */
 h1 {
-  font-size: 48px;
+  font-size: 36px;
   font-weight: bold;
   color: #333;
-  text-align: center;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  text-align: center;
   margin-bottom: 20px;
-  border-bottom: 2px solid #ccc;
-  padding-bottom: 10px;
-  text-shadow: 2px 2px #ccc;
-  background-color: #B6BB99;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px #ccc;
 }
 
-
+/* Style for h2 */
 h2 {
-  font-size: 1.5em;
-  margin-top: 10px;
-  text-shadow: 2px 2px #ccc;
-  background-color: #A4BEC7;
+  font-size: 24px;
   font-weight: bold;
-  color: #333;
-  text-align: center;
+  color: #666;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
 }
 
+/* Style for h3 */
 h3 {
-  font-size: 1.2em;
-  margin-top: 10px;
-  text-shadow: 2px 2px #ccc;
-  background-color: #B52B3A;
+  font-size: 20px;
   font-weight: bold;
-  color: #333;
-  text-align: center;
+  color: #999;
+  margin-bottom: 10px;
+  text-decoration: underline;
 }
+
 
 /* Style the paragraph elements */
 p {
