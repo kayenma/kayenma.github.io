@@ -54,6 +54,5 @@ table th {
 /* Style the image elements */
 
 img {
-  float: left; /* float the image to the left of the text */
   margin-right: 20px; /* add some margin to the right of the image */
 }
