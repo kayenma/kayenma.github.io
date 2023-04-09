@@ -68,5 +68,5 @@ img {
   border: 5px solid #fff;
   box-shadow: 0 0 20px rgba(0,0,0,0.6);
   transition: all 0.3s ease-in-out;
-  max-width: 100%;
+  float: center;
 }
