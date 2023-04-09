@@ -1,84 +1,51 @@
-/* (General) Type Selectors */
-/* STEP 3A */ {
-  font-family: "Helvetica", "Arial", sans-serif;
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
 }
 
-/* STEP 12 */ {
-  background-color: rgba(231,209,75,0.5); /* lt yellow */
+/* Style the heading elements */
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 1em;
 }
 
-/* STEP 7B */ {
-  color: rgb(69,105,159); /* blue */
+h2 {
+  font-size: 1.5em;
+  margin-top: 2em;
 }
 
-/* STEP 7A */ {
+h3 {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+}
+
+/* Style the paragraph elements */
+p {
   line-height: 1.5;
+  margin-top: 1em;
 }
 
-/* STEP 10A */ {
-  list-style-type: square;
+/* Style the table element */
+table {
+  border-collapse: collapse;
+  margin-top: 1.5em;
 }
 
-/* STEP 11A*/ {
-  text-decoration-color: rgb(69,105,159); /* blue */
-  text-decoration-style: wavy;
+table th, table td {
+  border: 1px solid #333;
+  padding: 0.5em;
 }
 
-/* STEP 11B */ {
-  font-style: italic;
-  color: rgb(69,105,159); /* blue */
-}
-
-
-/* (Structural) Type Selectors */
-
-/* STEP 3B */ {
-  margin-bottom: 16px;
-  padding: 16px;
-  background-color: rgba(231,209,75,0.15); /* lt yellow */
-}
-
-/* STEP 10B */ {
-  font-style: italic;
-}
-
-/* STEP 6A */ {
-  color: #000;
-}
-
-
-/* id Selectors */
-/* STEP 4A */ {
-  background-color: rgba(69,105,159,0.15); /* lt blue */
-  border: 1px dashed rgb(69,105,159); /* blue */
-}
-
-/* STEP 6B */ {
-  color: rgb(69,105,159); /* blue */
-}
-
-/* STEP 4B */ {
-  background-color: rgb(231,209,75); /* yellow */
-}
-
-/* STEP 8 */ {
-  border: 1px dashed rgb(69,105,159);
-  padding-left: 16px;
-}
-
-
-
-/* class Selectors */
-
-/* STEP 5A */ {
+table th {
+  background-color: #eee;
   font-weight: bold;
 }
 
-/* STEP 13 */ {
-  font-size: 22px;
-}
-
-/* STEP 5B */ {
-  font-weight: bold;
-  color: rgb(69,105,159); /* blue */
+/* Style the image elements */
+img {
+  display: block;
+  margin: 1em auto;
+  max-width: 100%;
+  height: auto;
 }
