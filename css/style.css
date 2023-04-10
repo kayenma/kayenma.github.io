@@ -82,7 +82,6 @@ img {
 
 #masthead {
   grid-area: masthead;
- grid-column: 1;
   background-color: #ccc;
   padding: 20px;
 
@@ -90,12 +89,11 @@ img {
 
 #article {
   grid-area: article;
-  grid-column: 2;
 }
 
 
 #footer {
    grid-area: footer;
-   grid-column: 3;
+ 
 }
 
