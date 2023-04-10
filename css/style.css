@@ -75,9 +75,9 @@ img {
   grid-template-rows: auto;
   gap: 20px;
   grid-template-areas:
-   "masthead"
-   "article"
-   "footer";
+   "masthead masthead"
+   "article article"
+   "footer footer";
 }
 
 #masthead {
