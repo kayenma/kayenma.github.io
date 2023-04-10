@@ -71,9 +71,9 @@ img {
 
 .grid {
   display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: auto;
-  gap: 20px;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 100%;
+  grid-gap: 20px;
   grid-template-areas:
    "masthead"
    "article"
@@ -82,8 +82,7 @@ img {
 
 #masthead {
   grid-area: masthead;
-  background-color: #ccc;
-  padding: 20px;
+
 
 }
 
@@ -94,6 +93,5 @@ img {
 
 #footer {
    grid-area: footer;
- 
 }
 
