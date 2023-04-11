@@ -69,10 +69,10 @@ img {
   display: grid;
   grid-template-rows: auto 1fr auto; 
   grid-template-columns: 1fr;  
-  min-height: 100vh;  
+   
 }
 
-#masthead {
+.masthead {
   grid-row: 1;  
   grid-column: 1; 
 
@@ -86,6 +86,7 @@ img {
   font-family: Arial, sans-serif;
   color: #333;
   font-weight: bold;
+  background-color: #F0F0F0;
 }
 
 
