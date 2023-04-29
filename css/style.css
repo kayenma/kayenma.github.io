@@ -41,6 +41,35 @@ p {
   width: auto;
 }
 
+nav {
+  position: fixed; /* This fixes the navigation menu in place */
+  top: 0; /* This keeps the menu at the top of the page */
+  left: 50%; /* This centers the navigation menu horizontally */
+  transform: translateX(-50%); /* This adjusts the positioning of the menu */
+  width: 100%; /* This sets the width of the menu to fill the entire page */
+  background-color: #f2f2f2; /* This sets the background color of the menu */
+}
+
+nav ul {
+  list-style: none; /* This removes the bullet points from the list */
+  margin: 0; /* This removes any default margins on the list */
+  padding: 0; /* This removes any default padding on the list */
+  display: flex; /* This sets the display of the list to a flexible box */
+  justify-content: center; /* This centers the list items horizontally */
+}
+
+nav li {
+  margin: 0 10px; /* This adds some spacing between the list items */
+}
+
+nav a {
+  display: block; /* This makes the links into block elements */
+  padding: 10px; /* This adds some padding around the links */
+  text-decoration: none; /* This removes the underline from the links */
+  color: #333; /* This sets the color of the links */
+}
+
+
 /* Style the table element */
 table {
   border-collapse: collapse;
