@@ -42,32 +42,85 @@ p {
 }
 
 nav {
-  position: fixed; /* This fixes the navigation menu in place */
-  top: 0; /* This keeps the menu at the top of the page */
-  left: 50%; /* This centers the navigation menu horizontally */
-  transform: translateX(-50%); /* This adjusts the positioning of the menu */
-  width: 100%; /* This sets the width of the menu to fill the entire page */
-  background-color: #f2f2f2; /* This sets the background color of the menu */
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  background-color: #333;
+  border-bottom: 2px solid #f2f2f2;
 }
 
 nav ul {
-  list-style: none; /* This removes the bullet points from the list */
-  margin: 0; /* This removes any default margins on the list */
-  padding: 0; /* This removes any default padding on the list */
-  display: flex; /* This sets the display of the list to a flexible box */
-  justify-content: center; /* This centers the list items horizontally */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
 }
 
 nav li {
-  margin: 0 10px; /* This adds some spacing between the list items */
+  margin: 0 20px;
+  position: relative;
 }
 
 nav a {
-  display: block; /* This makes the links into block elements */
-  padding: 10px; /* This adds some padding around the links */
-  text-decoration: none; /* This removes the underline from the links */
-  color: #333; /* This sets the color of the links */
+  display: block;
+  padding: 20px 10px;
+  text-decoration: none;
+  color: #f2f2f2;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
+
+nav a:hover {
+  color: #333;
+  background-color: #f2f2f2;
+  transition: all 0.3s ease-in-out;
+}
+
+nav li:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -10px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+nav li:hover:before {
+  opacity: 1;
+  left: -25px;
+  transition: all 0.3s ease-in-out;
+}
+
+nav li:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -10px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+nav li:hover:after {
+  opacity: 1;
+  right: -25px;
+  transition: all 0.3s ease-in-out;
+}
+
 
 
 /* Style the table element */
