@@ -176,7 +176,7 @@ img {
 
 }
 
-
+/* Style the footer */
 .footer {
   grid-row: 3;  
   grid-column: 1;  
@@ -186,6 +186,7 @@ img {
   padding: 20px;
 }
 
+/* Style the images in pages, aligh left and right */
 .image-right {
    float: right;
   margin: 0 0 10px 10px;
@@ -196,8 +197,66 @@ img {
   margin: 0 0 10px 10px;
 }
 
+
+/* Style the image on homepage */
 .responsive-image {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
+}
+
+
+
+
+/* to style the form in get in touch page */ 
+
+form {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+input[type="text"], 
+input[type="email"], 
+textarea {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  width: 100%;
+  font-size: 1.1em;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+input[type="submit"]:active {
+  background-color: #4CAF50;
+  transform: translateY(1px);
+}
+
+input[type="submit"]:focus {
+  outline: none;
+}
+
+textarea {
+  resize: none;
+  height: 200px;
 }
