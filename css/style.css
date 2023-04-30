@@ -186,11 +186,14 @@ img {
   padding: 20px;
 }
 
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+.image-right {
+   float: right;
+  margin: 0 0 10px 10px;
+}
+
+.image-left {
+   float: left;
+  margin: 0 0 10px 10px;
 }
 
 .responsive-image {
