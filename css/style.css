@@ -47,7 +47,6 @@ p {
 
 nav {
   position: fixed;
-  display: flex;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
