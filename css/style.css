@@ -1,20 +1,8 @@
 
 
 /* Style for h1 */
-h1 {
-  font-size: 32px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
-  color: #333;
-  text-transform: uppercase;
-  text-align: center;
-  margin-bottom: 20px;
-  letter-spacing: 2px;
-  text-shadow: 1px 1px #ccc;
-}
 
-/* Style for h2 */
-h2 {
+h1 {
   font-size: 24px;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
@@ -22,12 +10,11 @@ h2 {
   text-transform: uppercase;
   margin-bottom: 15px;
   letter-spacing: 1px;
-  border-bottom: 2px solid #ccc;
   padding-bottom: 5px;
 }
 
-/* Style for h3 */
-h3 {
+/* Style for h2 */
+h2 {
   font-size: 18.72px;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
