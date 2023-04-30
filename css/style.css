@@ -3,6 +3,7 @@
 /* Style for h1 */
 h1 {
   font-size: 32px;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #333;
   text-transform: uppercase;
@@ -15,6 +16,7 @@ h1 {
 /* Style for h2 */
 h2 {
   font-size: 24px;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #666;
   text-transform: uppercase;
@@ -27,6 +29,7 @@ h2 {
 /* Style for h3 */
 h3 {
   font-size: 18.72px;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #999;
   margin-bottom: 10px;
@@ -37,6 +40,7 @@ h3 {
 /* Style the paragraph elements */
 p {
   line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
   margin-top: 10px;
   width: auto;
 }
@@ -168,6 +172,7 @@ img {
   font-family: Arial, sans-serif;
   color: #333;
   font-weight: bold;
+  font-family: 'Roboto', sans-serif;
 
 }
 
