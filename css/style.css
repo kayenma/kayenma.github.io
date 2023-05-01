@@ -152,15 +152,15 @@ img {
 /* Style the page with 3 columns */
 
 .container3 {
- max-width: 900px;
+ max-width: 1200px;
  display: grid;
   grid-template-columns: repeat(3, 1fr); /* 3 columns */
   grid-template-rows: repeat(3, 1fr); /* 3 rows */
   gap: 42px; /* gap between grid items */
   margin-top: 110px;
-  margin-right: 70px;
-  margin-left: 70px;
-  margin-bottom: 70px;
+  margin-right: 110px;
+  margin-left: 110px;
+  margin-bottom: 110px;
 }
 
 /* Media query for mobile screens */
@@ -174,7 +174,7 @@ img {
 /* Style the page with 2 columns */
 
 .container2 {
-  max-width: 800px;
+  max-width: 1200px;
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* creates two columns of equal width */
   grid-gap: 20px; /* sets the gap between grid items to 20px */
