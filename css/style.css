@@ -136,6 +136,10 @@ img {
   grid-template-columns: repeat(3, 1fr); /* 3 columns */
   grid-template-rows: repeat(3, 1fr); /* 3 rows */
   gap: 20px; /* gap between grid items */
+  margin-top: 110px;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 70px;
 }
 
 /* Media query for mobile screens */
@@ -153,6 +157,10 @@ img {
   grid-template-columns: repeat(2, 1fr); /* 2 columns */
   grid-template-rows: repeat(2, 1fr); /* 2 rows */
   gap: 20px; /* gap between grid items */
+  margin-top: 110px;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 70px;
 }
 
 /* Media query for mobile screens */
