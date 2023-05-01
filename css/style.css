@@ -147,7 +147,7 @@ img {
 /* Style the page with 2 columns */
 
 .container2 {
-  max-width: 1200px;
+  max-width: 600px;
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* creates two columns of equal width */
   grid-gap: 50px; /* sets the gap between grid items to 20px */
