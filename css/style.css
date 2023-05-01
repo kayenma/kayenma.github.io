@@ -130,6 +130,11 @@ img {
 }
 /* Style the body */
 .body {  
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  
   display: flex;
   justify-content: center;
   align-items: center;
