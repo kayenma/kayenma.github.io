@@ -95,13 +95,7 @@ p {
   
 }
 
-how-it-works {
-  font-size: 36px;
-  line-height: 1.5;
-  font-family: 'Roboto', sans-serif;
-  margin-top: 10px;
-  
-}
+
 
 /* Style for page headers- title */
 
@@ -151,21 +145,6 @@ img {
 }
 
 
-/* Style the page with 2 columns */
-
-.container2 {
-  max-width: 600px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* creates two columns of equal width */
-  grid-gap: 50px; /* sets the gap between grid items to 20px */
-}
-
-.grid-item {
-  padding: 20px;
-  border: 1px solid #ccc;
-  font-family: 'Roboto', sans-serif;
-}
-
 
 /* Style the footer */
 .footer {
@@ -180,16 +159,7 @@ img {
   margin-top: 40px;
 }
 
-/* Style the images in pages, aligh left and right */
-.image-right {
-   float: right;
-  margin: 0 0 10px 10px;
-}
 
-.image-left {
-   float: left;
-  margin: 0 0 10px 10px;
-}
 
 
 /* Style the image on homepage */
@@ -258,6 +228,7 @@ textarea {
 
 
 
+/* to style the How it works page */ 
 
 
 
