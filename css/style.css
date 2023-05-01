@@ -1,43 +1,5 @@
+/* Style for menu on top - navigation */
 
-
-/* Style for h1 */
-
-h1 {
-  font-size: 24px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
-  color: #666;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-
-}
-
-/* Style for h2 */
-h2 {
-  font-size: 18.72px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
-  color: #999;
-  margin-bottom: 10px;
-  text-decoration: underline;
-}
-
-
-/* Style the paragraph elements */
-p {
-  line-height: 1.5;
-  font-family: 'Roboto', sans-serif;
-  margin-top: 10px;
-  width: auto;
-}
-
-.pages-header {
-  grid-row: 1 / 2; /* place the page header in the first row */
-  margin-right: 70px;
-  margin-left: 70px;
-  margin-bottom: 70px;
-  margin-top: 110px;
-}
 
 nav {
   background-color: #333;
@@ -95,6 +57,48 @@ a:hover {
 }
 
 
+/* Style for h1 */
+
+h1 {
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+
+}
+
+/* Style for h2 */
+h2 {
+  font-size: 18.72px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #999;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+
+/* Style the paragraph elements */
+p {
+  line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 10px;
+  width: auto;
+}
+
+
+
+/* Style for page headers- title */
+
+.pages-header {
+  grid-row: 1 / 2; /* place the page header in the first row */
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 70px;
+  margin-top: 110px;
+}
 
 /* Style the table element */
 table {
