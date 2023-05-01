@@ -8,9 +8,10 @@ h1 {
   font-weight: bold;
   color: #666;
   text-transform: uppercase;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
+  margin-top: 25px;
   letter-spacing: 1px;
-  padding-bottom: 5px;
+
 }
 
 /* Style for h2 */
