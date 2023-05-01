@@ -169,7 +169,6 @@ grid-row: 2 / 3; /* place the body content in the second row */
 }
 
 .grid-item {
-  background-color: #f2f2f2;
   padding: 20px;
   border: 1px solid #ccc;
   font-family: 'Roboto', sans-serif;
