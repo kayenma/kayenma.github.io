@@ -153,8 +153,9 @@ img {
 
 }
 
+/* Style the page with 3 columns */
 
-.container {
+.container3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
@@ -164,11 +165,28 @@ img {
 
 /* Media query for mobile screens */
 @media only screen and (max-width: 600px) {
-  .container {
+  .container3 {
     grid-template-columns: 1fr;
   }
 }
 
+
+/* Style the page with 2 columns */
+
+.container2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
+
+/* Media query for mobile screens */
+@media only screen and (max-width: 600px) {
+  .container2 {
+    grid-template-columns: 1fr;
+  }
+}
 
 
 /* Style the footer */
