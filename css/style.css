@@ -162,21 +162,15 @@ grid-row: 2 / 3; /* place the body content in the second row */
 /* Style the page with 2 columns */
 
 .container2 {
- display: grid;
-  grid-template-columns: repeat(2, 1fr); /* 2 columns */
-  grid-template-rows: repeat(2, 1fr); /* 2 rows */
-  gap: 60px; /* gap between grid items */
-  margin-top: 110px;
-  margin-right: 70px;
-  margin-left: 70px;
-  margin-bottom: 70px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* creates two columns of equal width */
+  grid-gap: 20px; /* sets the gap between grid items to 20px */
 }
 
-/* Media query for mobile screens */
-@media only screen and (max-width: 600px) {
-  .container2 {
-    grid-template-columns: 1fr;
-  }
+.grid-item {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border: 1px solid #ccc;
 }
 
 
