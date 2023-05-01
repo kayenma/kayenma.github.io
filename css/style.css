@@ -130,16 +130,16 @@ img {
 }
 /* Style the body */
 .body {  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
   max-width: 1200px;
-  padding-right: 70px;
-  padding-left: 70px;
-  padding-bottom: 70px;
   font-family: Arial, sans-serif;
   color: #333;
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
-  align-items: center;
-grid-row: 2 / 3; /* place the body content in the second row */
+  grid-row: 2 / 3; /* place the body content in the second row */
 }
 
 /* Style the page with 3 columns */
