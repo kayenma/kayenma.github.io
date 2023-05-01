@@ -34,7 +34,10 @@ p {
 }
 
 .pages-header {
-  grid-row: 1 / 2; /* place the navigation menu in the first row */
+  grid-row: 1 / 2; /* place the page header in the first row */
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 70px;
 }
 
 nav {
