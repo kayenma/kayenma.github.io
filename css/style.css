@@ -262,14 +262,6 @@ textarea {
 }
 
 
-/* to style the icons downloads for ios and android */ 
-.downloads {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 80px;
-}
-
 
 
 
