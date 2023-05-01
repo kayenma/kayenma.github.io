@@ -190,7 +190,7 @@ grid-row: 2 / 3; /* place the body content in the second row */
   bottom: 0;
   left: 0;
   grid-row: 3 / 4; 
-
+  margin-top: 40px;
 }
 
 /* Style the images in pages, aligh left and right */
