@@ -95,7 +95,13 @@ p {
   
 }
 
-
+how-it-works {
+  font-size: 36px;
+  line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 10px;
+  
+}
 
 /* Style for page headers- title */
 
