@@ -143,6 +143,7 @@ grid-row: 2 / 3; /* place the body content in the second row */
 /* Style the page with 3 columns */
 
 .container3 {
+ max-width: 900px;
  display: grid;
   grid-template-columns: repeat(3, 1fr); /* 3 columns */
   grid-template-rows: repeat(3, 1fr); /* 3 rows */
