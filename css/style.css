@@ -174,13 +174,6 @@ img {
   left: 0;
   grid-row: 3 / 4; 
   margin-top: 40px;
-  background: repeating-linear-gradient(
-    -45deg,
-    #cccccc,
-    #c0c0c0 10px,
-    #000 10px,
-    #000 20px
-  );
 }
 
 /* Style the images in pages, aligh left and right */
