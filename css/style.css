@@ -2,12 +2,13 @@
 
 
 nav {
-  position: sticky;
   background-color: #333;
   width: 100%;
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
-  z-index: 9999;
+  position: fixed;
+  top: 0;
+  z-index: 100;
 }
 
 ul {
