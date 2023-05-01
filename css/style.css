@@ -33,6 +33,10 @@ p {
   width: auto;
 }
 
+.pages-header {
+  grid-row: 1 / 2; /* place the navigation menu in the first row */
+}
+
 nav {
   background-color: #333;
   width: 100%;
@@ -118,7 +122,6 @@ img {
 }
 /* Style the body */
 .body {  
-  margin-top: 110px;
   margin-right: 70px;
   margin-left: 70px;
   margin-bottom: 70px;
@@ -126,7 +129,7 @@ img {
   color: #333;
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
-
+grid-row: 2 / 3; /* place the body content in the second row */
 }
 
 /* Style the page with 3 columns */
@@ -180,6 +183,7 @@ img {
   color: #fff;
   bottom: 0;
   left: 0;
+  grid-row: 3 / 4; 
 
 }
 
