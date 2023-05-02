@@ -79,7 +79,7 @@ a:hover:before {
 }
 
 a:hover {
-  color: #fff;
+  color: #fbb100;
   transform: translateY(-2px);
 }
 
