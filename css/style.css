@@ -1,28 +1,16 @@
-
-/* Define a CSS variable for the maximum width of the website */
-:root {
-  --max-width: 1200px;
-
-/* Define the grid container for the website */
-.container {
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-  grid-template-columns: 1fr;
-  min-height: 100vh;
-}
-
-
 /* Style for menu on top - navigation */
 
 
 nav {
-  
-  grid-row: 1 / 2;
-  grid-column: 1 / -1;
   background-color: #333;
+  width: 100%;
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
-  padding: 1rem;
+  position: fixed;
+  top: 0;
+  z-index: 100; 
+  top: 0;
+  left: 0;
 }
 
 ul {
@@ -108,6 +96,17 @@ p {
 }
 
 
+
+/* Style for page headers- title */
+
+.pages-header {
+  grid-row: 1 / 2; /* place the page header in the first row */
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 70px;
+  margin-top: 180px;
+}
+
 /* Style the table element */
 table {
   border-collapse: collapse;
@@ -124,38 +123,69 @@ table th {
   font-weight: bold;
 }
 
+/* Style the image elements */
+
+img {
+  border: 5px solid #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transition: all 0.3s ease-in-out;
+}
 
 
 
-
+}
 /* Style the body */
-.body {
-  grid-row: 2 / 3;
-  grid-column: 1 / -1;
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 1rem;
+.body {  
+  padding-bottom: 100px;
+  padding-top: 100px;
+  justify-content: center;
+  max-width: 600px;
+  color: #333;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  grid-row: 2 / 3; /* place the body content in the second row */
 }
 
-main {
-  text-align: center;
+
+/* Style the page with 2 columns */
+
+.container2 {
+  max-width: 600px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* creates two columns of equal width */
+  grid-gap: 50px; /* sets the gap between grid items to 20px */
 }
 
+.grid-item {
+  padding: 20px;
+  border: 1px solid #ccc;
+  font-family: 'Roboto', sans-serif;
+}
 
 
 /* Style the footer */
 .footer {
-  grid-row: 3 / 4;
-  grid-column: 1 / -1;text-align: center;  
+  text-align: center;  
   position: fixed;
   width: 100%;
   background-color: #333;
   color: #fff;
   bottom: 0;
   left: 0;
+  grid-row: 3 / 4; 
+  margin-top: 40px;
 }
 
+/* Style the images in pages, aligh left and right */
+.image-right {
+   float: right;
+  margin: 0 0 10px 10px;
+}
 
+.image-left {
+   float: left;
+  margin: 0 0 10px 10px;
+}
 
 
 /* Style the image on homepage */
@@ -166,6 +196,61 @@ main {
   left: 0;
 }
 
+
+
+
+/* to style the form in get in touch page */ 
+
+form {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+input[type="text"], 
+input[type="email"], 
+textarea {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  width: 100%;
+  font-size: 1.1em;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+input[type="submit"]:active {
+  background-color: #4CAF50;
+  transform: translateY(1px);
+}
+
+input[type="submit"]:focus {
+  outline: none;
+}
+
+textarea {
+  resize: none;
+  height: 200px;
+}
 
 
 
