@@ -187,7 +187,7 @@ img {
 
 /* to style the form in get in touch page */ 
 
-form {
+.form {
   width: 80%;
   margin: 0 auto;
   display: flex;
