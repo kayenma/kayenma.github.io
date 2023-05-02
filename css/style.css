@@ -1,10 +1,10 @@
 
-/* Define a CSS variable for the maximum width of the website */
+/* maximum width of the website */
 :root {
   --max-width: 1200px;
 }
 
-/* Define the grid container for the website */
+/* grid container for the website */
 .container {
   display: grid;
   grid-template-rows: auto 1fr auto;
