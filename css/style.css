@@ -114,11 +114,6 @@ p {
 }
 
 
-
-
-
-
-
 /* Style the table element */
 table {
   border-collapse: collapse;
@@ -145,7 +140,6 @@ img {
 
 
 
-}
 /* Style the body */
 .body {
   grid-row: 2 / 3;
