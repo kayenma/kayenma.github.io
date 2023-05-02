@@ -130,11 +130,14 @@ img {
 }
 /* Style the body */
 .body {
-  grid-row: 1 / 2; /* place the page header in the first row */
-  margin-right: 70px;
-  margin-left: 70px;
-  margin-bottom: 70px;
-  margin-top: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+main {
+  text-align: center;
 }
 
 
