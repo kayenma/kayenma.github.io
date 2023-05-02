@@ -241,4 +241,20 @@ label {
 
 
 
+/* get in touch button */ 
+
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable::before {
+  content: "Go to ";
+  color: blue;
+  text-decoration: underline;
+}
+
+.clickable:hover::before {
+  color: black;
+}
 
