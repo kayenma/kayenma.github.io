@@ -151,13 +151,15 @@ body {
   grid-column: 1 / -1;
   color: #333;
   font-weight: bold;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
 
 /* Style the footer */
 .footer {
+  grid-row: 3 / 4; 
+  grid-column: 1 / -1;
   text-align: center;  
   position: fixed;
   width: 100%;
@@ -165,8 +167,7 @@ body {
   color: #fff;
   bottom: 0;
   left: 0;
-  grid-row: 3 / 4; 
-  grid-column: 1 / -1;
+  
 }
 
 
