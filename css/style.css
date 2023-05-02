@@ -50,16 +50,14 @@ li {
 }
 
 a {
-  color: #fff;
+  color: #bec5cc;
   text-decoration: none;
   transition: all 0.3s ease;
   position: relative;
   display: inline-block;
 }
 
-k {
-  color: #000;
-}
+
 
 
 a:before {
