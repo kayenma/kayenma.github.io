@@ -151,8 +151,6 @@ img {
 .body {  
   grid-row: 2 / 3;
   grid-column: 1 / -1;
-  justify-content: center;
-  max-width: 600px;
   color: #333;
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
