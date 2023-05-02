@@ -195,6 +195,8 @@ form {
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #f9f9f9;
+  width: 200px;
+  height: 350px;
 }
 
 input[type=text], textarea {
