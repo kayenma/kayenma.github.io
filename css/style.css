@@ -97,15 +97,9 @@ p {
 
 
 
-/* Style for page headers- title */
 
-.pages-header {
-  grid-row: 1 / 2; /* place the page header in the first row */
-  margin-right: 70px;
-  margin-left: 70px;
-  margin-bottom: 70px;
-  margin-top: 180px;
-}
+
+
 
 /* Style the table element */
 table {
@@ -135,13 +129,12 @@ img {
 
 }
 /* Style the body */
-.body {  
+.body {
+  grid-row: 1 / 2; /* place the page header in the first row */
   margin-right: 70px;
   margin-left: 70px;
   margin-bottom: 70px;
   margin-top: 180px;
-  font-family: 'Roboto', sans-serif;
-  grid-row: 2 / 3; /* place the body content in the second row */
 }
 
 
