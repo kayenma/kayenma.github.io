@@ -184,55 +184,51 @@ body {
 
 /* to style the form in get in touch page */ 
 
-.form {
-  width: 80%;
-  margin: 0 auto;
+form {
   display: flex;
   flex-direction: column;
-}
-
-label {
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-input[type="text"], 
-input[type="email"], 
-textarea {
-  padding: 10px;
-  margin-bottom: 20px;
-  border: none;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
   border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
-  width: 100%;
-  font-size: 1.1em;
+  background-color: #f9f9f9;
 }
 
-input[type="submit"] {
+input[type=text], textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+}
+
+input[type=submit] {
   background-color: #4CAF50;
   color: white;
   padding: 12px 20px;
   border: none;
-  border-radius: 5px;
+  border-radius: 4px;
   cursor: pointer;
 }
 
-input[type="submit"]:hover {
-  background-color: #3e8e41;
+input[type=submit]:hover {
+  background-color: #45a049;
 }
 
-input[type="submit"]:active {
-  background-color: #4CAF50;
-  transform: translateY(1px);
+label {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-input[type="submit"]:focus {
-  outline: none;
-}
-
-textarea {
-  resize: none;
-  height: 200px;
+.error {
+  color: red;
+  font-size: 14px;
 }
 
 
