@@ -151,10 +151,6 @@ img {
 .body {  
   grid-row: 2 / 3;
   grid-column: 1 / -1;
-  margin-right: 70px;
-  margin-left: 70px;
-  margin-bottom: 70px;
-  margin-top: 180px;
   justify-content: center;
   max-width: 600px;
   color: #333;
