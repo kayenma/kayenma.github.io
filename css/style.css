@@ -21,7 +21,7 @@
 nav {
   grid-row: 1 / 2;
   grid-column: 1 / -1;
-  background-color: #333;
+  background-color: #00a451;
   width: 100%;
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
@@ -50,7 +50,7 @@ li {
 }
 
 a {
-  color: #1ada00;
+  color: #000;
   text-decoration: none;
   transition: all 0.3s ease;
   position: relative;
