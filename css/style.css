@@ -145,7 +145,7 @@ table th {
 body {  
   grid-row: 2 / 3;
   grid-column: 1 / -1;
-  margin-left: 150px;
+  padding-left: 150px;
   color: #333;
   font-weight: bold;
   font-family: 'Open Sans', sans-serif;
