@@ -30,6 +30,7 @@ nav {
   z-index: 100; 
   top: 0;
   left: 0;
+  height: 150px;
 }
 
 ul {
@@ -151,7 +152,7 @@ img {
   color: #333;
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
-  margin-left: 150px;
+  margin-top: 230px;
 }
 
 
