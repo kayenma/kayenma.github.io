@@ -101,7 +101,6 @@ h2 {
   color: #999;
   margin-top: 200px;
   margin-left: 150px;
-  
 }
 
 
@@ -110,8 +109,6 @@ p {
   font-size: 16px;
   line-height: 1.5;
   font-family: 'Roboto', sans-serif;
-  margin-top: 200px;
-  margin-left: 150px;
 }
 
 
@@ -154,24 +151,8 @@ img {
   color: #333;
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
-  margin-top: 300px;
 }
 
-
-/* Style the page with 2 columns */
-
-.container2 {
-  max-width: 600px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* creates two columns of equal width */
-  grid-gap: 50px; /* sets the gap between grid items to 20px */
-}
-
-.grid-item {
-  padding: 20px;
-  border: 1px solid #ccc;
-  font-family: 'Roboto', sans-serif;
-}
 
 
 /* Style the footer */
@@ -185,19 +166,9 @@ img {
   left: 0;
   grid-row: 3 / 4; 
   grid-column: 1 / -1;
-  margin-top: 40px;
 }
 
-/* Style the images in pages, aligh left and right */
-.image-right {
-   float: right;
-  margin: 0 0 10px 10px;
-}
 
-.image-left {
-   float: left;
-  margin: 0 0 10px 10px;
-}
 
 
 /* Style the image on homepage */
