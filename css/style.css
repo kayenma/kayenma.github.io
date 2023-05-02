@@ -89,7 +89,8 @@ h1 {
   color: #666;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin-top: 240px;
+  margin-top: 200px;
+  margin-left: 150px;
 }
 
 /* Style for h2 */
@@ -98,10 +99,9 @@ h2 {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #999;
-  margin-right: 70px;
-  margin-left: 70px;
-  margin-bottom: 70px;
-  margin-top: 110px;
+  margin-top: 200px;
+  margin-left: 150px;
+  
 }
 
 
@@ -110,8 +110,8 @@ p {
   font-size: 16px;
   line-height: 1.5;
   font-family: 'Roboto', sans-serif;
-  margin-top: 10px;
-  
+  margin-top: 200px;
+  margin-left: 150px;
 }
 
 
