@@ -1,8 +1,4 @@
 
-/* maximum width of the website */
-:root {
-  --max-width: 1200px;
-}
 
 /* grid container for the website */
 .container {
